@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54616160045",
+    "project_id": "bizmart-b3ac7",
+    "storage_bucket": "bizmart-b3ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54616160045:android:cd65b8f453f7b02eba45a4",
+        "android_client_info": {
+          "package_name": "com.bizmart.service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54616160045-2c7jc6oblb9cu7f0en1gi3l6m4uf912h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ7P_4K5TUV2k8falq3ZrFbJGRdUSzx4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54616160045-2c7jc6oblb9cu7f0en1gi3l6m4uf912h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
